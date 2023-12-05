@@ -4,13 +4,13 @@
 
 int main()
 {
-    // Vari�veis
+    // Variáveis
     int i, numero;
 
     setlocale(LC_ALL, "portuguese");
 
-    // Escolha do usu�rio
-    printf("Digite um número de 1 à 10: ");
+    // Escolha do usuário
+    printf("Digite um número de 1 à 10: ");
     scanf("%d", &numero);
     system("cls || clear");
 
